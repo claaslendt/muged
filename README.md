@@ -1,6 +1,6 @@
 # Machine Learning for Unsupervised Gait Event Detection
 
-This repository is dedicated to the research project 'Machine Learning for Unsupervised Gait Event Detection'. This project is supported by a fellowship of the German Academic Exchange  Service (DAAD) for Claas Lendt.
+This repository is dedicated to the research project 'Machine Learning for Unsupervised Gait Event Detection'. This project is partially supported by a fellowship of the German Academic Exchange  Service (DAAD) for Claas Lendt.
 
 *All code and data for this research project will be added to this repository at a later stage of the project.*
 
@@ -49,7 +49,7 @@ We are looking forward to share our final pipeline, the validation results and m
 
 
 
-**Figure 1**. Example of the gait event predictions
+**Figure 1**. Example of the predicted probabilities over a short walking sequence.
 
 ![StrideSegmentationWalking](https://github.com/claaslendt/muged/blob/main/figures/Fig2.png)
 
